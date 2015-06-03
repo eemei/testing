@@ -9,5 +9,6 @@ int doSomeOtherStuffs(){
  }
  
 void Helo_sakai_stupid (){
+  voidhello();
   return 0;
   }
