@@ -8,6 +8,6 @@ int doSomeOtherStuffs(){
   return -1;
  }
  
- int Hello_sakai(){
+void Helo_sakai_stupid (){
   return 0;
   }

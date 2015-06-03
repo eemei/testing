@@ -13,3 +13,7 @@ void test_doDummyStuff_given(void)
 {
 	doDummyStuff();
 }
+
+void Helo_sakai_stupid (){
+  return 0;
+  }
